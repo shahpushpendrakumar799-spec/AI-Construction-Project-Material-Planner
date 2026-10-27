@@ -1,1 +1,1 @@
-# AI-Construction-Project-Material-Planner.
+# AI-Construction-Project-Material-Planner
